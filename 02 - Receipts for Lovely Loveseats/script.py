@@ -1,4 +1,5 @@
 # Project: Lovely Loveseats
+# by: @Brohmarr
 
 # Inventory #
 # Item: "Lovely Loveseat"
