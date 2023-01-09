@@ -52,7 +52,7 @@ else:
 
 print("Drone Shipping: $ ", drone_price)
 
-# Getting the cheapest method of shipping.
+# Checking which is the cheapest method of shipping.
 default_message = 'The cheapest method of shipping for your package is the '
 print()
 
